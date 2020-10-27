@@ -4,10 +4,7 @@ namespace OddOrEven
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            IsOdd();
-        }
+        static void Main(string[] args) => IsOdd();
 
         public static bool IsOdd()
         { 
